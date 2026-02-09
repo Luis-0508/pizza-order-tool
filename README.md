@@ -25,6 +25,7 @@ For full functionality (fetch API), serve it via a local web server (e.g. `Live 
 Translations are stored as JSON files in the `locales` folder:  
 - `locales/lang_en.json` (English)  
 - `locales/lang_de.json` (German)  
+- `locales/lang_it.json` (Italian)  
 
 Adding more languages is easy by adding new JSON files.
 

@@ -1,0 +1,26 @@
+{
+    "title": "Ordine Pizza",
+    "heading": "Ordine Pizza",
+    "labelName": "Nome:",
+    "namePlaceholder": "Inserisci il nome",
+    "buttonNext": "Avanti",
+    "buttonFinish": "Fine",
+    "alertNoName": "Inserisci un nome!",
+    "alertNoOrders": "Nessun ordine trovato!",
+    "summaryTitle": "Riepilogo Pizza",
+    "summaryNoToppings": "(senza extra)",
+    "unknownName": "(Sconosciuto)",
+    "wants": "vuole",
+    "ingredients": [
+        "Salame",
+        "Prosciutto",
+        "Funghi",
+        "Peperone",
+        "Cipolle",
+        "Olive",
+        "Mozzarella",
+        "Rucola",
+        "Tonno",
+        "Ananas"
+    ]
+}
