@@ -28,6 +28,7 @@ Translations are stored as JSON files in the `locales` folder:
 - `locales/lang_en.json` (English)  
 - `locales/lang_de.json` (German)  
 - `locales/lang_it.json` (Italian)  
+- `locales/lang_el.json` (Greek)
 
 Adding more languages is easy by adding new JSON files.
 
