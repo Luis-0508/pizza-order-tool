@@ -1,6 +1,6 @@
 # 🍕 Pizza Order Tool
 
-A simple and user-friendly **pizza ordering web app** with support for multiple languages (currently English & German).  
+A simple and user-friendly **pizza ordering web app** with support for multiple languages (currently English, German, and Italian).  
 Designed to quickly collect pizza orders in group settings such as small offices, events, or casual meetups.
 
 ---
@@ -8,6 +8,8 @@ Designed to quickly collect pizza orders in group settings such as small offices
 ## 🚀 Features
 
 - 📝 Enter your name and select pizza toppings  
+- 🍕 Choose size, quantity, presets, and add notes/allergies  
+- 🧾 Edit/remove orders, sorted summary, grouped duplicates, and copy export  
 - 🌐 Dynamic multi-language user interface with easy language switching  
 - 📋 Summary view showing all submitted orders for easy review  
 

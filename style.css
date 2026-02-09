@@ -20,9 +20,16 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-input[type="text"], textarea, select {
+input[type="text"], input[type="number"], textarea, select {
   font-size: 16px !important;
   touch-action: manipulation;
+}
+
+input[type="number"], select, textarea {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
 }
 
 
@@ -85,6 +92,49 @@ button {
     padding: 1rem;
     border-radius: 8px;
     box-sizing: border-box;
+}
+
+#outputActions {
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#outputActions button {
+    width: auto;
+}
+
+#ordersListContainer {
+    margin-top: 1.5rem;
+}
+
+.order-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem;
+    background: #fafafa;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 0.6rem 0.8rem;
+    margin-bottom: 0.5rem;
+}
+
+.order-item .order-text {
+    flex: 1;
+    font-size: 0.95rem;
+}
+
+.order-item .order-actions {
+    display: flex;
+    gap: 0.4rem;
+}
+
+.order-item .order-actions button {
+    width: auto;
+    padding: 0.4rem 0.6rem;
+    margin: 0;
+    font-size: 0.85rem;
 }
 
 /* Language select dropdown */
